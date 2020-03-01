@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:/学习/崇新学堂/大三上/信息基础二/Deep Learning Homework/Experiment2/.idea/Experiment2.iml" filepath="C:/学习/崇新学堂/大三上/信息基础二/Deep Learning Homework/Experiment2/.idea/Experiment2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lenet5-mnist-numpy-master.iml" filepath="$PROJECT_DIR$/.idea/lenet5-mnist-numpy-master.iml" />
+    </modules>
+  </component>
+</project>
