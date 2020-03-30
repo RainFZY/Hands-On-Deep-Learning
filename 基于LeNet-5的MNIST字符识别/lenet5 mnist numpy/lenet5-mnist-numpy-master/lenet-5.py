@@ -126,7 +126,7 @@ class Softmax():
         dX = np.dot(dX,dY)
         return dX
 #--------------------------------------- 计算loss --------------------------------------------------
-# 负对数似然估计，Negative log likelihood loss
+# 负对数似然估计，Negative log likelihood loss，即交叉熵损失
 def NLLLoss(Y_pred, Y_true):
     loss = 0.0
     N = Y_pred.shape[0]
